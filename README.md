@@ -5,11 +5,8 @@
 </p>
 
 
+Hey! I am @thatoddone1. 👋 You can find me [here](joshuarocks.me) on the internet. See you later!!!
 
-
-- 👋 Hi, I’m @Thatoddone1
-- 👀 I’m interested in Mobile Development and Web Development
-- 🌱 I’m currently learning Swift and Svelte!
 
 <!---
 Thatoddone1/Thatoddone1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
