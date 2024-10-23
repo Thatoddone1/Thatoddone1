@@ -5,7 +5,7 @@
 </p>
 
 
-Hey! I am @thatoddone1. 👋 You can find me [here](joshuarocks.me) on the internet. See you later!!!
+Hey! I am @thatoddone1. 👋 You can find me [here](https://www.joshuarocks.me) on the internet. See you later!!!
 
 
 <!---
